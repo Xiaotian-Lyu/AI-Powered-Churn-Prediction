@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# AI-Powered-Customer-Churn-Prediction
 
 ## Problem Statement
 In the fast-paced and competitive business landscape, retaining customers has become a cornerstone for sustainable growth and long-term success. This project tackles the challenge of customer churn by developing a machine learning model that identifies high-risk customers who are likely to stop using a service. Customer churn not only impacts revenue but also reduces market share and hinders business growth.
